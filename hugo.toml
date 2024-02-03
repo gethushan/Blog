@@ -1,0 +1,4 @@
+baseURL = 'https://gethushan.github.io/Blog/'
+languageCode = 'en-us'
+title = 'Code Collab Hub'
+theme = "holy"
